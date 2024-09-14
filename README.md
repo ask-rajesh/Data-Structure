@@ -4,7 +4,7 @@ All about Data Structure.
 
 ## What is Data Structure?
 
-A data structure is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently
+A data structure is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently.
 
 ## Types of Data Structure
 
