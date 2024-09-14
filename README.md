@@ -48,3 +48,6 @@ Common non-linear data structures include:
     * Tries
     * Disjoint Set (Union-Find)
 
+## If you liked this repository
+
+* Dont't forget to give this repository a 🌟
